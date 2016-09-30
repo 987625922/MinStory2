@@ -2,14 +2,14 @@
 ### 一个为了妈妈和儿童提供小故事的APP。
 #  截图
 <div>
-<img src="http://img.blog.csdn.net/20160928144255331" width="30%" alt="首页"/>
-<img src="http://img.blog.csdn.net/20160928144923355" width="30%" alt="分类"/>
-<img src="http://img.blog.csdn.net/20160928144936508" width="30%" alt="视频"/>
+<img src="https://raw.githubusercontent.com/987625922/MinStory2/master/png/1.png" width="30%" alt="首页"/>
+<img src="https://raw.githubusercontent.com/987625922/MinStory2/master/png/2.png" width="30%" alt="分类"/>
+<img src="https://raw.githubusercontent.com/987625922/MinStory2/master/png/3.png" width="30%" alt="视频"/>
 </div>
 <div>
-<img src="http://img.blog.csdn.net/20160928144952918" width="30%" alt="个人"/>
-<img src="http://img.blog.csdn.net/20160928145349150" width="30%" alt="内容"/>
-<img src="http://img.blog.csdn.net/20160928145402400" width="30%" alt="视频"/>
+<img src="https://raw.githubusercontent.com/987625922/MinStory2/master/png/4.png" width="30%" alt="个人"/>
+<img src="https://raw.githubusercontent.com/987625922/MinStory2/master/png/5.png" width="30%" alt="内容"/>
+<img src="https://raw.githubusercontent.com/987625922/MinStory2/master/png/6.png" width="30%" alt="视频"/>
 </div>
 #  
 ### 项目结构
