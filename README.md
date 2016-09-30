@@ -15,7 +15,7 @@
 ### 项目结构
  1. MVC结构
  2. 图片处理用了fresco
- 3. 用okhttp的网络请求
+ 3. 网络请求服务器数据用了Bmob
  4. 列表recyclerview
  5. 后台用了Bmob后端云
  6. 文本内容业主要是用Textview显示html代码
