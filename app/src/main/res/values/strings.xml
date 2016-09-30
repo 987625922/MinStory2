@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Minstory</string>
+    <string name="signin"><u>注册</u></string>
+    <string name="forgetpassword"><u>忘记密码?</u></string>
+</resources>

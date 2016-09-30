@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto">
+    <FrameLayout
+        android:id="@+id/vp_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#edf5fb"
+        android:layout_above="@+id/ll_selectionbar"
+        />
+    <LinearLayout
+        android:id="@+id/ll_selectionbar"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:orientation="horizontal"
+        android:background="#ffffff"
+        >
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/img_news"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="5"
+        android:padding="5dp"
+        fresco:placeholderImage="@mipmap/ic_dashboard_black"
+
+        />
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/img_classify"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="5"
+        android:padding="5dp"
+
+        fresco:placeholderImage="@mipmap/ic_class_black"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="4.5"
+        />
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/img_video"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="5"
+        android:padding="5dp"
+
+        fresco:placeholderImage="@mipmap/ic_airplay_black"
+
+        />
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/img_person"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="5"
+        android:padding="5dp"
+
+        fresco:placeholderImage="@mipmap/ic_account_box_black"
+
+        />
+</LinearLayout>
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/btn_recycle_top"
+        android:layout_width="80dp"
+        android:layout_height="60dp"
+        fresco:placeholderImage="@mipmap/ic_main"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        />
+
+</RelativeLayout>

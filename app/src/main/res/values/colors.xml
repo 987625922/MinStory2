@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="MainDarkColor">#00aeff</color>
+    <!--<color name="MainColor">#41c3fd</color>-->
+    <!--萱草-->
+    <color name="MainColor">#FC9F4D</color>
+    <!--黄丹-->
+    <color name="MaindeepColor">#F05E1C</color>
+    <!--深支子-->
+    <color name="Mainshallow">#FB9966</color>
+    <color name="MainshallowColor">#aedae7</color>
+    <color name="MainBackground">#FEFFFE</color>
+    <!--调色板颜色-->
+    <color name="mainone">#ff7473</color>
+    <color name="maintwo">#ffc952</color>
+    <color name="mainthree">#47b8e0</color>
+    <!--主题线的颜色-->
+    <color name="colorMainLine">#f4f4f4</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dkgray">#80808FF0</color>
+    <color name="yello">#F8F8FF00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darkgray">#938192</color>
+    <color name="lightgreen">#7cd12e</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="cyan">#ff00ffff</color>
+    <color name="gray">#e3dede</color>
+    <color name="green">#ff00ff00</color>
+    <color name="ltgray">#ffcccccc</color>
+    <color name="magenta">#ffff00ff</color>
+    <color name="red">#ffff0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="yellow">#ffffff00</color>
+
+</resources>
